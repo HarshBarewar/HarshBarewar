@@ -151,14 +151,6 @@ Trained ML classification models on **5000+ financial records** with full valida
 ---
 
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourgithub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -177,10 +169,10 @@ Trained ML classification models on **5000+ financial records** with full valida
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/harshbarewar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshbarewar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshbarewar112@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshBarewar)
-[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/HarshBarewar)
+[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/HarshBarewar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/barewarharsh)
 
 </div>

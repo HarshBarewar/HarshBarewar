@@ -1,4 +1,3 @@
-\
 
 <div align="center">
 
@@ -151,14 +150,6 @@ Trained ML classification models on **5000+ financial records** with full valida
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
@@ -201,7 +192,5 @@ Trained ML classification models on **5000+ financial records** with full valida
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:6C63FF&height=120&section=footer&animation=fadeIn" />
 
 ⭐ **If you find my work useful, consider giving it a star!** ⭐
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourgithub&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
